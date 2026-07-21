@@ -38,8 +38,8 @@ The project is split into three main sections covering Natural Language Processi
 
 ---
 
-## 🚀 How to Run the Code
+##  How to Run the Code
 1. Clone this repository to your local machine.
 2. Ensure you have the required libraries installed: `pip install torch torchvision scikit-learn numpy matplotlib tensorflow`
-3. Open `Ai_Final.ipynb` in Jupyter Notebook or Google Colab.
+3. Open `IMDB_CLASSIFIER.ipynb` in Jupyter Notebook or Google Colab.
 4. Run the cells sequentially. *Note: Part B will automatically download the required GloVe embeddings if they are not found in the directory.*
