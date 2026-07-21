@@ -3,6 +3,7 @@
 This repository contains a comprehensive Jupyter Notebook demonstrating my ability to build, train, and evaluate both traditional machine learning models and modern deep neural networks using Python, Scikit-Learn, and PyTorch. 
 
 The project is split into three main sections covering Natural Language Processing (NLP) and Computer Vision (CV).
+It was part of the course AI in AUEB instructed by prof Ion Androtsopoulos.
 
 ## Technologies & Frameworks Used
 * **Languages:** Python
