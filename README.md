@@ -1,10 +1,10 @@
-# 🧠 Machine Learning & Deep Learning Portfolio
+#  Machine Learning & Deep Learning 
 
-Welcome to my AI portfolio project! This repository contains a comprehensive Jupyter Notebook demonstrating my ability to build, train, and evaluate both traditional machine learning models and modern deep neural networks using Python, Scikit-Learn, and PyTorch. 
+This repository contains a comprehensive Jupyter Notebook demonstrating my ability to build, train, and evaluate both traditional machine learning models and modern deep neural networks using Python, Scikit-Learn, and PyTorch. 
 
 The project is split into three main sections covering Natural Language Processing (NLP) and Computer Vision (CV).
 
-## 🛠️ Technologies & Frameworks Used
+## Technologies & Frameworks Used
 * **Languages:** Python
 * **Deep Learning:** PyTorch, Torchvision
 * **Machine Learning:** Scikit-Learn
@@ -13,7 +13,7 @@ The project is split into three main sections covering Natural Language Processi
 
 ---
 
-## 📊 Project Breakdown
+## Project Breakdown
 
 ### Part A: Traditional ML for Sentiment Analysis (IMDB Dataset)
 **Goal:** Classify movie reviews as positive or negative using traditional ML techniques.
